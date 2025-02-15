@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d04fb0e15472510459aa4927a42193f2, type: 3}
+  m_Name: Rune
+  m_EditorClassIdentifier: 
+  itemID: 03
+  itemName: "\u0420\u0443\u043D\u0430"
+  description: "\u0413\u043E\u0440\u044F\u0447\u0430\u044F \u043E\u0433\u043D\u0435\u043D\u043D\u0430\u044F
+    \u0440\u0443\u043D\u0430"
+  icon: {fileID: 21300000, guid: 108ca3e7dda90d945b0914bf9259ec94, type: 3}
+  prefab: {fileID: 1742858173413876, guid: d29e24bc93cb56444b399ec69af86d12, type: 3}
+  isSingle: 0
+  quantity: 1
